@@ -5,25 +5,6 @@
 
 ---
 
-## 🌟 Future Work
-- Add more ML models (Random Forest, SVM, etc.)
-- Deploy the model using **Streamlit** or **Flask**
-- Create a web dashboard for predictions  
-
----
-
-## 🙌 Acknowledgements
-This project is inspired by the classic **Iris dataset** introduced by Ronald A. Fisher.  
-Special thanks to the **scikit-learn** and **pandas** community for providing such powerful tools.  
-
----
-
-## 📢 Final Note
-If you like this project, don’t forget to ⭐ the repository and connect with me! 🚀  
-I’m always open to collaboration and feedback.  
-
----
-
 ## 📌 Overview  
 This project demonstrates **Machine Learning classification** using the famous **Iris dataset**.  
 We build and compare three models:  
@@ -135,24 +116,12 @@ print("Predicted species:", model.predict(sample)[0])
 ## 👨‍💻 Author
 
 **Zain Ul Abideen**
+* 🌐 LinkedIn :[Zain Ashraf](https://www.linkedin.com/in/zaintech?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 * 🌐 GitHub: [zain1234-coder](https://github.com/zain1234-coder)
 * 💼 Data Analyst | Web Developer | Machine Learning Enthusiast
 
 --- 
-
-## 🌟 Future Work
-- Add more ML models (Email spam detec, Car price pred, etc.)
-- Deploy the model using **Streamlit** or **Flask**
-- Create a web dashboard for predictions  
-
----
-
-## 🙌 Acknowledgements
-This project is inspired by the classic **Iris dataset** introduced by Ronald A. Fisher.  
-Special thanks to the **scikit-learn** and **pandas** community for providing such powerful tools.  
-
----
 
 ## 📢 Final Note
 If you like this project, don’t forget to ⭐ the repository and connect with me! 🚀  
